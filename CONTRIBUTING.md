@@ -66,7 +66,7 @@ This should go without saying, but actually use the linters! If you see errors/p
 ### Option 1: Use GitHub
 ***Note 1:** If you choose option 1, we assume you know basic Git, e.g. committing, pushing, pulling, branching, merging, etc. If you want to learn the basic Git you need to contribute, we recommend watching [this entire playlist.](https://www.youtube.com/watch?v=3RjQznt-8kE&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&index=1)*
 
-***Note 2:** If you want an overview of the Pull Request (PR) workflow we are using, read these articles.*
+***Note 2:** If you want an overview of the Pull Request (PR) workflow we are using, read [these articles](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/proposing-changes-to-your-work-with-pull-requests).*
 
 1. Send your GitHub username to a Curriculum Development member and ask them to add you as an outside collaborator on the repository or repositories that you want to contribute to.
 2. Clone or fork the official C4T repository.
