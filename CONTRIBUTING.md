@@ -1,5 +1,5 @@
 # Practice Problem Guidelines
-Please follow the following guidelines when creating or finding practice problems. We expect all problems submitted by teachers to maintain the highest quality! (You can also read these guidelines on every repository’s README.md.)
+Please follow the following guidelines when creating or finding practice problems. We expect all problems submitted by teachers to maintain the highest quality!
 
 If you have questions, send a message to #questions on the teachers Discord.
 
@@ -7,9 +7,9 @@ If you have questions, send a message to #questions on the teachers Discord.
 ### Install Linters
 This will save you time because when you submit a pull request (PR) on GitHub, we check for good programming style. Your PR will not be approved unless it passes those style checks. Also, linters basically enforce all of the style rules that we discuss below, so you basically can just skip to the next section (Follow the C4T practice and solution problem format).
 
-* Java: Install checkstyle (SonarLint recommended as well)
-* Python: Install flake8 (pylint recommended as well)
-* HTML/CSS: Install SonarLint (recommended)
+* Java: Install [checkstyle](https://checkstyle.org/)
+* Python: Install [flake8](https://flake8.pycqa.org/en/latest/) and [black](https://black.readthedocs.io/en/stable/)
+* HTML/CSS: Install [Prettier](https://prettier.io/) and [stylelint](https://stylelint.io/)
 
 This should go without saying, but actually use the linters! If you see errors/problems/warnings, address them, don’t ignore them and keep going!
 
@@ -70,27 +70,27 @@ This should go without saying, but actually use the linters! If you see errors/p
 
 1. Send your GitHub username to a Curriculum Development member and ask them to add you as an outside collaborator on the repository or repositories that you want to contribute to.
 2. Clone or fork the official C4T repository.
-  * All repositories can be found here: https://github.com/code-for-tomorrow 
-  * [How to Clone](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
-  * [How to Fork](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
+    * All repositories can be found here: https://github.com/code4tomorrow
+    * [How to Clone](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
+    * [How to Fork](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
 3. Work on the practice problems locally.
-  * If you cloned the repo, make sure you create and checkout a new branch. **DO NOT MAKE EDITS ON THE MASTER BRANCH.**
-  * If you forked the repo, you’re free to work on the master branch or make your own branches (though that is kinda unnecessary).
-  * [Git Branches Tutorial](https://www.atlassian.com/git/tutorials/using-branches)
+    * If you cloned the repo, make sure you create and checkout a new branch. **DO NOT MAKE EDITS ON THE MASTER BRANCH.**
+    * If you forked the repo, you’re free to work on the master branch or make your own branches (though that is kinda unnecessary).
+    * [Git Branches Tutorial](https://www.atlassian.com/git/tutorials/using-branches)
 4. Push your local branch to remote.
-  * [How to Push](https://help.github.com/en/github/using-git/pushing-commits-to-a-remote-repository)
+    * [How to Push](https://help.github.com/en/github/using-git/pushing-commits-to-a-remote-repository)
 5. Make a pull request to merge your branch with the master branch of the official C4T repo.
-  * Make sure that the title of your pull request is descriptive but concise.
-  * In the description part of your pull request, you should specify the following:
-    * Your full name (if it’s not clear from your GitHub profile)
-    * Chapter # and section name that this problem should go under (for example, Ch. 1 Intro to Python, Section: Comments)
-  * [How to Create a Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
+    * Make sure that the title of your pull request is descriptive but concise.
+    * In the description part of your pull request, you should specify the following:
+      * Your full name (if it’s not clear from your GitHub profile)
+      * Chapter # and section name that this problem should go under (for example, Ch. 1 Intro to Python, Section: Comments)
+    * [How to Create a Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 6. Mention @Curriculum Development on the Teachers Discord that you’ve submitted a PR.
 7. Monitor the status of your Pull Request on GitHub. 
-  * It’s possible that the Curriculum Development team will Request Changes, in which case you will need to commit those changes before your PR will be approved and merged into the official master branch.
+    * It’s possible that the Curriculum Development team will Request Changes, in which case you will need to commit those changes before your PR will be approved and merged into the official master branch.
 
 ### Option 2: Use the Google Form
-Submit a problem [here](https://forms.gle/hDWrPRG3HuAgUdCJ9) if you don’t have a GitHub account.
+Submit a problem [here](https://forms.gle/hDWrPRG3HuAgUdCJ9) if you don’t have a GitHub account. Be sure to message a Curriculum Development member if you submit through a Google Form.
 
 
 **Thank you teachers for following these guidelines and helping us build a problem base!**
