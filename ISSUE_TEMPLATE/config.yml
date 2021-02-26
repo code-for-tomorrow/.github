@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Code 4 Tomorrow Website
+    url: https://code4tomorrow.org
+    about: Learn more about C4T here
+  - name: Knowledge Base
+    url: https://docs.code4tomorrow.org
+    about: Even more info about C4T
+  - name: Discord Guide
+    url: https://discord.code4tomorrow.org
+    about: Join the C4T Discord server(s) here and ask us questions directly
