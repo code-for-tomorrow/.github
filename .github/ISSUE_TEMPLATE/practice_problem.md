@@ -2,7 +2,7 @@
 name: Practice Problem Issue
 about: Tell us about an issue you're having with a practice problem template or solution
 title: 'Add a clear and concise title describing your issue'
-labels: practice problem, bug
+labels: 'practice problem', bug
 assignees: ''
 
 ---
