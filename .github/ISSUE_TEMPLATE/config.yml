@@ -1,4 +1,4 @@
-blank_issues_enabled: false
+blank_issues_enabled: true
 contact_links:
   - name: Code 4 Tomorrow Website
     url: https://code4tomorrow.org
